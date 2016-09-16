@@ -31,6 +31,5 @@ function getRandomIntInclusive(min, max) {
     min = Math.ceil(min);
     max = Math.floor(max);
     var pick = Math.floor(Math.random() * (max - min + 1)) + min;
-    console.log(pick);
     return pick;
 }
