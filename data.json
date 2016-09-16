@@ -11,5 +11,287 @@
         {"id": "8", "question": "Favorite meal?"},
         {"id": "9", "question": "favorite logo?"},
         {"id": "10", "question": "favorite baseball team?"}
+        {"id": "11", "Which of the 7 deadly sins are you?"}
+        {"id": "12", "What is your favorite line from a movie?"}
+        {"id": "13", "What is your favorite line from a book?"}
+        {"id": "14", "Would your rather be stranded by yourself or someone you don't like?"}
+        {"id": "15", "What is today’s song recommendation?"}
+        {"id": "16", "Favorite sandwich?"}
+        {"id": "17", "If today was a color, what would it be?"}
+        {"id": "18", "If you had a choice to never leave the state you live or travel, but never be able to come back to the state you currently live, what would you choose?"}
+        {"id": "19", "What is your favorite day of the week?"}
+        {"id": "20", "What is your favorite color?"}
+        {"id": "21", "What is your favorite holiday?"}
+        {"id": "22", "Read a book, watch a movie, or go for a walk?"}
+        {"id": "23", "What is furthest point you’ve travelled from your current location?"}
+        {"id": "24", "What is the highest elevation you’ve traveled?"}
+        {"id": "25", "What is your favorite soda flavor?"}
+        {"id": "26", "What is your favorite ice cream flavor?"}
+        {"id": "27", "What is your favorite pickled food?"}
+        {"id": "28", "Windows, Mac, or Linux?"}
+        {"id": "29", "Play, Opera, or Concert?"}
+        {"id": "30", "How often do you get out to the movies?"}
+        {"id": "31", "What was the last movie you went out to see and how was it?"}
+        {"id": "32", "What is your favorite restaurant at the a travel destination."}
+        {"id": "33", "What’s the greatest bit of advice a parent or mentor has given you?"}
+        {"id": "34", "What technology innovation made the most impact on your life?"}
+        {"id": "35", "Describe a challenging situation you’ve been in and tell how you resolved it?"}
+        {"id": "36", "How would you spend one million dollars?"}
+        {"id": "37", "Who is your hero, and why?"}
+        {"id": "38", "Tell us your earliest childhood memory."}
+        {"id": "39", "Who was your favorite teacher in school and how did s/he impact you?"}
+        {"id": "40", "If you could choose an age to remain forever, which age would you choose?"}
+        {"id": "41", "What is one important skill every person should have?"}
+        {"id": "42", "What is your favorite sport to watch?"}
+        {"id": "43", "If you had one free hour each day, how would you use it?"}
+        {"id": "44", "What was the best thing that happened to you this weekend? This month? This year?"}
+        {"id": "45", "If you could go anywhere in the world on vacation, where would you go?"}
+        {"id": "46", "How would your friends describe you?"}
+        {"id": "47", "What would be the ultimate gift for you to receive?"}
+        {"id": "48", "If you could live anywhere in the world, where would it be?"}
+        {"id": "49", "Would you rather be invisible or be able to read minds?"}
+        {"id": "50", "If you had a time machine, what point in the past or future would you visit?"}
+        {"id": "51", "Name two things you consider yourself to be very good at."}
+        {"id": "52", "If you could live in any period of history, when would it be?"}
+        {"id": "53", "What is the best perk that you have had at a job?"}
+        {"id": "54", "Describe one experience you’ve had where you took a huge leap of faith."}
+        {"id": "55", "What is the best vacation you’ve ever had?"}
+        {"id": "56", "Where in the world have you been that you thought was paradise?"}
+        {"id": "57", "What is the meaning of your name?"}
+        {"id": "58", "If you could host a talk show, who would be your first guest?"}
+        {"id": "59", "What is one word that you would use to describe your team?"}
+        {"id": "60", "Share a personal fact no one would ever guess about you."}
+        {"id": "61", "What is the most important personal attribute that you bring to your job?"}
+        {"id": "62", "What is one thing you admire most about the person to the right of you?"}
+        {"id": "63", "What would you like to be known for?"}
+        {"id": "64", "What fictional place would you like to visit?"}
+        {"id": "65", "Choose your age forever, what age would you choose and why?"}
+        {"id": "66", "Have 3 wishes granted, what would they be?"}
+        {"id": "67", "Have an endless supply of any food, what would you get?"}
+        {"id": "68", "Be an Olympic athlete, what sport would you compete in?"}
+        {"id": "69", "Be in the movie of your choice, what movie would you choose and what character would you play?"}
+        {"id": "70", "Be someone else, who would you be?"}
+        {"id": "71", "Buy a car right now, what would you buy?"}
+        {"id": "72", "Change anything about yourself, what would you change?"}
+        {"id": "73", "Choose an imaginary friend, who would you choose and why?"}
+        {"id": "74", "Choose, how would you want to die?"}
+        {"id": "75", "Do your dream job 10 years from now, what would it be?"}
+        {"id": "76", "Eat your favorite food now, what would it be?"}
+        {"id": "77", "Eliminate one thing from your daily schedule, what would it be and why?"}
+        {"id": "78", "Go anywhere in the world, where would you go?"}
+        {"id": "79", "Go back in time and change history, what would you change? Why?"}
+        {"id": "80", "Go on a road trip with any person (dead or alive), who would you choose and where would you go?"}
+        {"id": "81", "Have an unlimited storage of one thing, what would it be?"}
+        {"id": "82", "Have any kind of pet, what would you have?"}
+        {"id": "83", "Have any question answered, what would it be?"}
+        {"id": "84", "Have one wish granted, what would they be?"}
+        {"id": "85", "Invite four famous people to dinner, who would you choose and why?"}
+        {"id": "86", "Learn any skill, what would it be?"}
+        {"id": "87", "Live anywhere in the world, where would you live?"}
+        {"id": "88", "Live anywhere on this planet, and take everything that you love with you, where would you choose to live?"}Tell the group about your choice.
+        {"id": "89", "Live in any period of history, when would it be?"}
+        {"id": "90", "Meet any historical figure, who would you choose and why?"}
+        {"id": "91", "Replay a fun (or deep or big) moment in your life, what would you choose?"}
+        {"id": "92", "Sit on a bench in a beautiful woods, who would you like sitting next to you on the bench and why?"}
+        {"id": "93", "Talk to any one person now living, who would it be and why?"}
+        {"id": "94", "Talk to anyone in the world, who would it be?"}
+        {"id": "95", "Visit any place in the world, where would you choose to go and why?"}
+        {"id": "96", "Watch your favorite movie now, what would it be?"}
+        {"id": "97", "Watch your favorite TV show now, what would it be?"}
+        {"id": "98", "Wish one thing to come true this year, what would it be?"}
+        {"id": "99", "Go back in time with whom would you like to spend a day with?"}
+        {"id": "100", "Go forward in time, what would you want to know?"}
+        {"id": "101", "Be an animal for one day, what would you be and why?"}
+        {"id": "102", "Read one person’s mind, whose would it be?"}
+        {"id": "103", "Meet a famous person, who would it be?"}
+        {"id": "104", "Have one wish granted, what would it be?"}
+        {"id": "105", "Visit any planet, which one would you choose and why?"}
+        {"id": "106", "Live any time in history, what period would you choose and why?"}
+        {"id": "107", "Add any word to the dictionary, what word would it be, and what would it mean?"}
+        {"id": "108", "Only have one favorite food to eat for the rest of your life, what would it be?"}
+        {"id": "109", "Trade places with one person, who would it be?"}
+        {"id": "110", "Trade places with someone for 1 day, who would it be?"}
+        {"id": "111", "Invite four famous people to dinner, who would you choose and why?"}
+        {"id": "112", "Replay a fun (or deep or big) moment in your life, what would you choose?"}
+        {"id": "113", "Have 1 wish granted, what would it be?"}
+        {"id": "114", "Live anywhere in the world, where would you live?"}
+        {"id": "115", "Go anyplace for Christmas, where would you go?"}
+        {"id": "116", "Go on a road trip with any person (dead or alive), who would you choose and where would you go?"}
+        {"id": "117", "Share a funny incident in your life."}
+        {"id": "118", "What is your favorite outdoor activity?"}
+        {"id": "119", "Who would you like to exchange roles with?"}
+        {"id": "120", "What is one of the things on your bucket list?"}
+        {"id": "121", "Describe yourself in 3 words."}
+        {"id": "122", "What do you enjoy doing to relieve stress?"}
+        {"id": "123", "If you were famous, what would you be famous for?"}
+        {"id": "124", "What do you think you will be doing 20 years from now?"}
+        {"id": "125", "If you didn’t need a job, were healthy, and had plenty of time, what would you do?"}
+        {"id": "126", "What do you consider your greatest achievement?"}
+        {"id": "127", "What is a recent book that you have enjoyed? Why?"}
+        {"id": "128", "What would you do with your “15 minutes” of fame?"}
+        {"id": "129", "Over the course of your life, how many cities have you lived in and which was your favorite?"}
+        {"id": "130", "What was going on during the happiest time of your life?"}
+        {"id": "131", "If you could only take one physical item with you on a deserted island, what it would be?"}
+        {"id": "132", "What’s one sentence you’d like to hear from your boss?"}
+        {"id": "133", "If you could have a dinner with someone who is alive or dead, who would it be and why?"}
+        {"id": "134", "What are you going to do when you retire?"}
+        {"id": "135", "What is the first thing you do on Christmas Day?"}
+        {"id": "136", "Where do you go shopping for Christmas?"}
+        {"id": "137", "What is a Christmas tradition your family participates in?"}
+        {"id": "138", "What is your favorite Christmas activity?"}
+        {"id": "139", "What is your favorite Christmas food?"}
+        {"id": "140", "What was your favorite Christmas present of all time?"}
+        {"id": "141", "What is your favorite Christmas carol?"}
+        {"id": "142", "What was the coolest gift you ever gave someone?"}
+        {"id": "143", "What was the coolest gift you ever received?"}
+        {"id": "144", "What does Christmas mean to you?"}
+        {"id": "145", "What is your favorite kind of Christmas candy?"}
+        {"id": "146", "What is your favorite Christmas cookie?"}
+        {"id": "147", "Are you traveling for Christmas? If so, where to?"}
+        {"id": "148", "What Christmas movie do you watch every year?"}
+        {"id": "149", "If you were a vegetable, what vegetable would you be?"}
+        {"id": "150", "If you woke up tomorrow as an animal, what animal would you choose to be and why?"}
+        {"id": "151", "If you could live anywhere on this planet, and take everything that you love with you, where would you choose to live?"}Tell the group about your choice.
+        {"id": "152", "What favorite color are you and how does being that color make you feel?"}
+        {"id": "153", "If you could choose an imaginary friend, who would you choose and why?"}
+        {"id": "154", "If you could sit on a bench in a beautiful woods, who would you like sitting next to you on the bench and why?"}
+        {"id": "155", "Are you sunrise, daylight, twilight, or night? Please share why you picked your time of day?"}
+        {"id": "156", "If you could choose your age forever, what age would you choose and why? If you could be in the movie of your choice, what movie would you choose and what character would you play?"}
+        {"id": "157", "If you could meet any historical figure, who would you choose and why?"}
+        {"id": "158", "If you were a city, which city would you choose to be and why?"}
+        {"id": "159", "What are your ten favorite foods?"}
+        {"id": "160", "If you were a candy bar, which candy bar would you be? Share why."}
+        {"id": "161", "If you were to change your name, what name would you adopt going forward? Why?"}
+        {"id": "162", "Are you spring, summer, fall, or winter? Please share why."}
+        {"id": "163", "If you were stranded on a desert island, what three items would you want to have with you?"}
+        {"id": "164", "Share a description of your favorite material object that you already own?"}
+        {"id": "165", "What item that you don't have already, would you most like to own?"}
+        {"id": "166", "If you could only choose one vacation destination where would you pick and why?"}
+        {"id": "167", "If you were to create a slogan for your life, what would it be? (Example: Eat, drink, and be merry, for tomorrow, we all die.)"}
+        {"id": "168", "Pick something out of your pocket or purse and share with the group why it's important to you."}
+        {"id": "169", "What was your favorite Halloween costume?"}
+        {"id": "170", "What is your favorite holiday? What do you enjoy about it?"}
+        {"id": "171", "What New Year’s resolution you made in the past were you actually able to keep?"}
+        {"id": "172", "What was the best fireworks show you ever saw or experienced?"}
+        {"id": "173", "Does your name have a special meaning and or were you named after someone special?"}
+        {"id": "174", "Would you rather eat a stick of butter or a gallon of ice cream?"}
+        {"id": "175", "Would you rather kiss a jelly fish or step on a crab?"}
+        {"id": "176", "Would you rather be 3 feet tall or 8 feet tall? why?"}
+        {"id": "177", "Would you rather be born with an elephant trunk or a giraffe neck?"}
+        {"id": "178", "Would you rather be missing a finger or have an extra toe?"}
+        {"id": "179", "If you had this week to do over again, what would you do differently?"}
+        {"id": "180", "What would you do in life if you knew you could not fail?"}
+        {"id": "181", "What would you do if you did not have to work?"}
+        {"id": "182", "If you found out you only had two weeks to live, what would you want to do? (Or cross off your bucket list?)"}
+        {"id": "183", "If you are at a friend or relative’s house for dinner and you find a dead insect in your salad, what would you do?"}
+        {"id": "184", "If you saw someone being mugged in the street, what would you do?"}
+        {"id": "185", "What would you do if you did not have to work?"}
+        {"id": "186", "What would you do if you had a million dollars?"}
+        {"id": "187", "What would you do in life if you knew you could not fail?"}
+        {"id": "188", "How can you tell if someone is a nerd?"}
+        {"id": "189", "If you were running for office what would your campaign slogan be?"}
+        {"id": "190", "Is there a place where you would not be caught dead? Where?"}
+        {"id": "191", "Is there anything you absolutely refuse to do under any circumstances?"}
+        {"id": "192", "What are three words that describe the most perfect kiss you have had?"}
+        {"id": "193", "What are you passionate about?"}
+        {"id": "194", "What city in America should not be included on a map, why?"}
+        {"id": "195", "What is one thing that drives you crazy?"}
+        {"id": "196", "What “critter” scares you the most?"}
+        {"id": "197", "What do you do to have fun?"}
+        {"id": "198", "What do you dream about at night?"}
+        {"id": "199", "What is a weird habit that you have?"}
+        {"id": "200", "What is the craziest thing you have ever done?"}
+        {"id": "201", "What is the first thing you notice about someone when you first meet?"}
+        {"id": "202", "What is the most unusual thing in your wallet, pocket, or purse right at this moment?"}
+        {"id": "203", "What is your most embarrassing moment?"}
+        {"id": "204", "What is your pet peeve in traffic?"}
+        {"id": "205", "What three things do you love about your friends? And three you could do without?"}
+        {"id": "206", "What turns you on creatively, spiritually or emotionally?"}
+        {"id": "207", "What is the most anti-establishment thing you have ever done?"}
+        {"id": "208", "What is the naughtiest present you have ever received?"}
+        {"id": "209", "What is the worst thing you did as a kid?"}
+        {"id": "210", "What is your pet peeve?"}
+        {"id": "211", "What is the naughtiest thing you have done in school?"}
+        {"id": "212", "What is the one thing, you can’t live without?"}
+        {"id": "213", "What is the weirdest thing you have ever eaten?"}
+        {"id": "214", "If you were the Miss World, what would your message for aspiring models be?"}
+        {"id": "215", "What is your idea for de-stressing?"}
+        {"id": "216", "Can you share one quote or saying you love, that keeps you going in life?"}
+        {"id": "217", "Food for soul or music for soul? Why?"}
+        {"id": "218", "If you could go back in time and change history, what would you change? Why?"}
+        {"id": "219", "If you had one day to live over again, what day would you pick?"}
+        {"id": "220", "If you knew you were going to die in 24 hours, what three things would you do in the time you had left?"}
+        {"id": "221", "If you woke up as (name any famous personality), what is the first thing you would do?"}
+        {"id": "222", "If you were mayor for the day, what three things would you change about your city?"}
+        {"id": "223", "If your house was burning down, what three objects would you try and save?"}
+        {"id": "224", "If your plane was about to crash, who would you want sitting next to you?"}
+        {"id": "225", "What do you consider the most important event of your life so far?"}
+        {"id": "226", "What do you consider your greatest achievement?"}
+        {"id": "227", "What do you think the secret to a good life is?"}
+        {"id": "228", "What do you value most in life?"}
+        {"id": "229", "What gift have you received that you will always treasure?"}
+        {"id": "230", "What is your motto in life? (Now this one’s an icebreaker question to get to know someone.)"}
+        {"id": "231", "What would you like to be known for?"}
+        {"id": "232", "Describe a real-life situation where you stood up for someone/something."}
+        {"id": "233", "Describe one experience you have had where you took a huge leap of faith."}
+        {"id": "234", "Describe one past action (big or small) you took to improve the quality of your life."}
+        {"id": "235", "Describe your own outlook on life in six words."}
+        {"id": "236", "What one thing do you think would create peace in the world?"}
+        {"id": "237", "What product would you refuse to promote?"}
+        {"id": "238", "What is the one thing you can’t live without?"}
+        {"id": "239", "What is the one thing for which you would most like to be remembered after your death?"}
+        {"id": "240", "What is the best thing that has ever happened to you?"}
+        {"id": "241", "What is important to you in your life right now?"}
+        {"id": "242", "If you had to be allergic to something, what would it be?"}
+        {"id": "243", "If you HAD to change your name, what would you change it to?"}
+        {"id": "244", "If you walked in your sleep, where would you go?"}
+        {"id": "245", "If you were a candy bar, which candy bar would you be? Share why."}
+        {"id": "246", "If you were a cartoon, which one would you prefer being?"}
+        {"id": "247", "If you were a city, which city would you choose and why?"}
+        {"id": "248", "If you were a superhero, what would your super-name be? What would your superpower be?"}
+        {"id": "249", "If you were to name one piece of clothing that describes you, what would you say?"}
+        {"id": "250", "If you were to write a book about yourself, what would you name it?"}
+        {"id": "251", "If you woke up tomorrow as an animal, what animal would you choose to be and why?"}
+        {"id": "252", "What compliment do people give you the most?"}
+        {"id": "253", "What do you think is the perfect age? Why?"}
+        {"id": "254", "What favorite color are you and how does being that color make you feel? (Example, I am purple.)"}
+        {"id": "255", "What historical (non-Biblical) figure interests you the most?"}
+        {"id": "256", "What is a typical day like for you?"}
+        {"id": "257", "What is one funny trait you have, that you would like others to know about?"}
+        {"id": "258", "What is one thing that not many people know about you?"}
+        {"id": "259", "What is one thing you miss about being a kid?"}
+        {"id": "260", "What is that one thing which makes you different?"}
+        {"id": "261", "What is the meaning of your name?"}
+        {"id": "262", "What makes a good friend?"}
+        {"id": "263", "What makes you feel more secure?"}
+        {"id": "264", "What song reminds you of an incident in your life?"}
+        {"id": "265", "What will you be like when you are 75?"}
+        {"id": "266", "What word would you add to the dictionary if you could and what would it mean?"}
+        {"id": "267", "What would be a perfect afternoon for you?"}
+        {"id": "268", "What would you change about your appearance?"}
+        {"id": "269", "What is your favorite dish to cook for friends? For just you?"}
+        {"id": "270", "What is your favorite book?"}
+        {"id": "271", "What is your favorite ice cream flavor?"}
+        {"id": "272", "What is your favorite movie?"}
+        {"id": "273", "What is your favorite thing to do in the summer?"}
+        {"id": "274", "Where did you live between the ages of 9 and 12?"}
+        {"id": "275", "Where do/did your parents live?"}
+        {"id": "276", "Where is your bloodline originally from?"}
+        {"id": "277", "Which actor is over-hyped?"}
+        {"id": "278", "Which letter of the alphabet describes you best?"}
+        {"id": "279", "Which person in your life do you most admire? Why?"}
+        {"id": "280", "Who has been the greatest influence in your life?"}
+        {"id": "281", "Who is the best friend you have at this point in your life?"}
+        {"id": "282", "Who is the famous person you would have loved to be born as?"}
+        {"id": "283", "Who is the last person you would want to see before you die?"}
+        {"id": "284", "Who is the most famous person you have met?"}
+        {"id": "285", "Who is the most influential person in the world today?"}
+        {"id": "286", "Who is the person closest to you?"}
+        {"id": "287", "Who is the worst actor in Hollywood?"}
+        {"id": "288", "Who is your best friend from your home town?"}
+        {"id": "290", "Who is your favorite author/celebrity?"}
+        {"id": "291", "Whom would you call for bail money?"}
+        {"id": "292", "Who’s your favorite cartoon character, and why?"}
+        {"id": "293", "What is one funny trait you have, that you would like others to know about?"}
     ]
 }
