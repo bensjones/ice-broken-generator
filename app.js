@@ -14,9 +14,13 @@ $( document ).ready(function() {
                 writeKey: '6719318775DF1B867C0136B4F9E4671982392F64F73D79887B72427F765F8812F50EB3EAD0B95206AE0C046F4C53CE936696E6280517E8C3A05136F03DD1798B0CD9C7FFDA5D50991CC039C54CC8A1C4A48948037170129293830571CA0A3EC5'
             });
 
-            client.recordEvent('icebroken', {
-                "ice-broken": $("#ice-broken").text()
-            });
+            $.get("https://ipinfo.io", function(response) {
+                console.log(response.loc);
+                client.recordEvent('icebroken', {
+                    "ice-broken": $("#ice-broken").text(),
+                    "location": response.loc
+                });
+            }, "jsonp");
         });
     });
 });
