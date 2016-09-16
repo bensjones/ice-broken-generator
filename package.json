@@ -1,0 +1,7 @@
+{
+  "name": "ice-broken-generator",
+  "version": "0.0.1",
+  "dependencies": {
+    "keen-tracking": "^1.0.3"
+  }
+}
