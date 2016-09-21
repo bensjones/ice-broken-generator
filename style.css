@@ -30,6 +30,8 @@ html, body {
     font-size: 6vw;
     width: 90%;
     margin: 0 auto;
+    position:relative;
+    top:30%;
 }
 
 #footer {
