@@ -18,6 +18,16 @@ $( document ).ready(function() {
             });
         });
     });
+
+    // Initialize Firebase
+    var config = {
+        apiKey: "AIzaSyDTcypr6k_47uQkhizKOJw9lzJFPuBtTGs",
+        authDomain: "ice-broken-generator-b2ddb.firebaseapp.com",
+        databaseURL: "https://ice-broken-generator-b2ddb.firebaseio.com",
+        storageBucket: "",
+        messagingSenderId: "815695150990"
+    };
+    firebase.initializeApp(config);
 });
 
 function pickIceBroken( data ){
